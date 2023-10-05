@@ -12,3 +12,4 @@ updates:
     groups:
       dependencies:
         update-types: [ patch, minor ]
+
